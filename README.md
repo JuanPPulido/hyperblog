@@ -8,7 +8,8 @@
 
 #### Ciclo de vida o estados de los archivos en Git**:
 
-Creado Por Pulido
+Creado Por Pulido, incluye ejemplos de windows, Disponible para todas las edades
+
 
 - **Archivos Tracked**: Son los archivos que viven dentro de Git, no tienen cambios pendientes y sus últimas actualizaciones han sido guardadas en el repositorio gracias a los comandos `git add` y `git commit`.
 
